@@ -4,7 +4,7 @@ import { getToken } from '~/composables/auth'
 import store from "./store"
 
 const service = axios.create({
-    baseURL:import.meta.env.VITE_APP_BASE_API,
+    baseURL:'/api',
 })
 
 // 添加请求拦截器

@@ -5,10 +5,12 @@
 #### ⛱️ 线上预览
 
 - 线上项目预览 <a href="http://www.zhangyuren.cn" target="_blank">http://www.zhangyuren.cn</a>
+- 账户名：admin
+- 密码： admin
 
 #### 🚧 安装 yarn
 
-- 复制代码(桌面 cmd 运行) `npm install -g yarn`
+- 复制代码（终端运行） `npm install -g yarn`
 - 建议使用yarn，npm可能会出现请求比较慢或者丢包的情况
 
 ```bash
