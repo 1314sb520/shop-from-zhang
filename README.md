@@ -4,9 +4,9 @@
 
 #### ⛱️ 线上预览
 
-- 线上项目预览 <a href="https://lyt-top.gitee.io/vue-next-admin-preview/#/login" target="_blank">http://www.zhangyuren.cn</a>
+- 线上项目预览 <a href="http://www.zhangyuren.cn" target="_blank">http://www.zhangyuren.cn</a>
 
-#### 🚧 安装 npm、yarn
+#### 🚧 安装 yarn
 
 - 复制代码(桌面 cmd 运行) `npm install -g yarn`
 - 建议使用yarn，npm可能会出现请求比较慢或者丢包的情况
